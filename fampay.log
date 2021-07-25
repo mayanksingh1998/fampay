@@ -1,0 +1,58 @@
+video
+video
+video
+video
+2021-07-23 22:43:23.241006
+video
+2021-07-23 22:48:45.033477
+video
+2021-07-23 22:49:01.260962
+video
+2021-07-23 22:50:01.100483
+video
+{}
+{}
+{'channel_title': 'Dave2D'}
+{'channel_title__in': 'Dave2D'}
+{'channel_title__in': 'Dave2D'}
+{'channel_title__in': 'Dave2D'}
+{'video_title__in': 'i\\  phone', 'channel_title__in': 'Dave2D'}
+{'title__in': 'i\\  phone', 'channel_title__in': 'Dave2D'}
+{'title__in': 'i phone', 'channel_title__in': 'Dave2D'}
+{'channel_title__in': 'Dave2D'}
+{'channel_title__in': 'Dave2D'}
+{'channel_title__icontains': 'Dave2D'}
+{'title__icontains': 'i phone', 'channel_title__icontains': 'Dave2D'}
+{'title__icontains': 'i', 'channel_title__icontains': 'Dave2D'}
+{'title__icontains': 'iPhone', 'channel_title__icontains': 'Dave2D'}
+{'title__icontains': 'iPhone', 'channel_title__icontains': 'Dave2D', 'description__icontains': 'Thoughts'}
+not enough arguments for format string
+not enough arguments for format string
+not enough arguments for format string
+not enough arguments for format string
+mamma
+not enough arguments for format string
+mamma
+None
+mamma
+b'AIzaSyD7yWOqKYXssgsLhOiUWtm5XUxuqHS22wM'
+'items'
+mamma
+b'AIzaSyD7yWOqKYXssgsLhOiUWtm5XUxuqHS22wM'
+https://www.googleapis.com/youtube/v3/search?part=snippet&key=b'AIzaSyD7yWOqKYXssgsLhOiUWtm5XUxuqHS22wM'&type=video&q=iphone&maxResults=10
+'items'
+mamma
+https://www.googleapis.com/youtube/v3/search?part=snippet&key=AIzaSyD7yWOqKYXssgsLhOiUWtm5XUxuqHS22wM&type=video&q=iphone&maxResults=10
+{'title__icontains': 'iPhone', 'channel_title__icontains': 'Dave2D', 'description__icontains': 'Thoughts'}
+{'title__icontains': 'iPhone', 'channel_title__icontains': 'Dave2D', 'description__icontains': 'Thoughts'}
+{'title__icontains': 'iPhone', 'channel_title__icontains': 'Dave2D', 'description__icontains': 'Thoughts'}
+{'title__icontains': 'iPhone', 'channel_title__icontains': 'Dave2D', 'description__icontains': 'Thoughts'}
+{'title__icontains': 'iPhone', 'channel_title__icontains': 'Dave2D', 'description__icontains': 'Thoughts'}
+{'title__icontains': 'iPhone', 'channel_title__icontains': 'Dave2D', 'description__icontains': 'Thoughts'}
+{'title__icontains': 'iPhone', 'channel_title__icontains': 'Dave2D', 'description__icontains': 'Thoughts'}
+{'title__icontains': 'iPhone', 'channel_title__icontains': 'Dave2D', 'description__icontains': 'Thoughts'}
+{'title__icontains': 'iPhone', 'channel_title__icontains': 'Dave2D', 'description__icontains': 'Thoughts'}
+{'title__icontains': 'iPhone', 'channel_title__icontains': 'Dave2D', 'description__icontains': 'Thoughts'}
+{'title__icontains': 'iPhone', 'channel_title__icontains': 'Dave2D'}
+{'channel_title__icontains': 'Dave2D'}
+{}
